@@ -19,6 +19,12 @@
    2-lwt/rst.rst
    2-lwt/markdown.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 第3章: Github入门
+
+   3-github/github.rst
+
 
 Indices and tables
 ==================
@@ -33,3 +39,5 @@ Indices and tables
 
 .. Note::
    I loves China!
+
+
